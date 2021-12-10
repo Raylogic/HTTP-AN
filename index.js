@@ -161,7 +161,7 @@ app.post('/', (req, res) => {
     if (isNaN(result)) {
         res.status(500).send('Invalid type of parameters');
     } else {
-        res.send(`HTTP/1.1 200 OK\n Content-Type: application/json\n\n{\n "result": ${result} \n}`);
+        res.send(`HTTP/1.1 200 OK\nContent-Type: application/json\n\n{\n "result": ${result} \n}`);
     }
 })
 
