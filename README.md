@@ -1,2 +1,2 @@
 # HTTP-AN
-Advanced Networking Asiignment #2 (University of Birmingham)
+Advanced Networking Assignment #2 (University of Birmingham)
